@@ -27,9 +27,9 @@ public class assignment_p1 {
 
     public static void main(String[] args) {
         
-        System.out.println(normalizeAndValidate("  assignment ")); 
-        System.out.println(normalizeAndValidate("  java assignment "));         
-        System.out.println(normalizeAndValidate("   "));
-        System.out.println(normalizeAndValidate("  java lab"));                
+        System.out.println(normalizeAndValidate("  Assignment1 ")); 
+        System.out.println(normalizeAndValidate("  java Assignment "));         
+        System.out.println(normalizeAndValidate("  admin"));
+        System.out.println(normalizeAndValidate("  lab"));                
     }
 }
