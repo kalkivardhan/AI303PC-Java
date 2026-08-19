@@ -58,7 +58,7 @@ public class assignment_p4 {
     }
 
     public static void main(String[] args) {
-        String fullName = "Kalkivardhan";
+        String fullName = "Kalkivardha";
         String email = "25ag1a66c0@gmail";
         String sentence = "Hello World ";
 
